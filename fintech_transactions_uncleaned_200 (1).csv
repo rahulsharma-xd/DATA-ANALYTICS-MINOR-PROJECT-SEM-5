@@ -1,0 +1,206 @@
+Transaction_ID,Customer_Name,Date,Amount,Currency,Merchant,Category,Payment_Method,Status,Country
+T100000,Ivan,2023-09-25,"$1,566.24 ",EUR,Amazon,Travel,Bank Transfer,Pending, UK 
+T100001,Eve,2023-09-24,"$1,939.21 USD", GBP,zomato, Transport, Debit Card,Completed,USA
+T100002,David,18/05/2024,"$1,522.24 ",USD,Amazon,Travel, Debit Card,Completed,Australia
+T100003,Frank,13/06/2024,"$1,589.45",EUR,Apple,Utilities,UPI,Cancelled ,Germany
+T100004,Frank,"Jun 15, 2024","$1,903.55 ",INR ,zomato,Travel,UPI,Failed,Germany
+T100005,Eve,2023-12-31,"$1,146.47",EUR,Paytm,Entertainment,UPI,Failed,Japan 
+T100006,Judy,2023-04-22,"$1,741.27",INR ,Amazon,Travel,Cash,Pending,Australia
+T100007,Judy,04/10/2023,"$1,846.16 USD", GBP,Amazon,Travel,Cash,Completed,Canada
+T100008,Judy,24/10/2023,$40.87 ,usd,Flipkart,Travel,Bank Transfer,Failed,Germany
+T100009,Judy,06/02/2024,$264.59 USD,usd,Apple,Travel,Bank Transfer,Completed, France
+T100010,Eve,"Mar 03, 2024",$920.05 USD,EUR,Apple,Travel,Cash,Failed, UK 
+T100011,Heidi ,2024-05-12,"$1,377.16",EUR,uber, Transport, Wallet,Pending,Canada
+T100012,Heidi ,29/04/2024,$378.79 USD,usd,zomato,Bills,UPI,Failed,Canada
+T100013,Frank,"Dec 19, 2023","$1,337.83 ",INR ,Apple,Shopping,UPI,Completed,Australia
+T100014,David,24/07/2023,"$1,376.36",INR ,Starbucks,  Groceries, Wallet,Cancelled ,India
+,,,,,,,,,
+T100016,Judy,"Nov 21, 2023",$296.51 USD,USD,Walmart,Travel,Bank Transfer,Pending,Germany
+T100017,Eve,09/07/2024,$450.03 ,INR ,Google ,Travel,Bank Transfer,Cancelled ,Canada
+T100018,Heidi ,2023-06-12,$311.09 ,INR ,uber,Food ,Cash,Cancelled ,Germany
+T100019,Frank,"May 21, 2024",$403.64 USD,usd,Walmart,Utilities,Bank Transfer,Pending,India
+T100020,  Charlie,2024-03-06,$540.43,usd,Flipkart,Insurance, Wallet, Success, France
+T100021,Ivan,03/02/2024,$764.62 ,USD,uber,Insurance, Debit Card,Pending,USA
+T100022,Judy,"Aug 06, 2024","$1,339.19 ",INR ,zomato,Bills,UPI,Pending,Germany
+T100023,Judy,"Apr 15, 2024","$1,898.94 USD", GBP,zomato, Transport,Credit Card,Cancelled ,Canada
+T100024,Judy,"Apr 29, 2024",$351.19 USD,USD,Walmart,Shopping,Cash,Failed,Australia
+T100025,Heidi ,05/07/2023,$851.08 ,usd,Paytm, Transport,Cash,Cancelled ,Germany
+T100026,Frank,2024-02-14,$27.31 USD,USD,Walmart,Food ,Cash,Completed,Australia
+T100027,Ivan,2023-07-11,$994.81 ,USD,Paytm,Bills,UPI,Completed,USA
+T100028,Judy,2023-05-19,$812.45 ,EUR,Apple, Transport,Bank Transfer,Cancelled ,India
+T100029,Alice,17/08/2023,$585.06 USD,usd,Google , Transport,UPI, Success,India
+,,,,,,,,,
+T100031,Frank,23/12/2023,"$1,631.34 ",INR ,zomato,Utilities,UPI,Completed,Germany
+T100032,Alice,"Mar 19, 2023","$1,197.59 USD",INR , Netflix,  Groceries,Bank Transfer,Failed,Australia
+T100033,  Charlie,"Nov 12, 2023","$1,796.75 ",INR ,Flipkart,Food , Wallet,Failed,USA
+T100034,Frank,"Jul 12, 2023",$78.56 USD,EUR, Netflix, Transport, Debit Card,Failed,Australia
+T100035,Eve,"Sep 03, 2023",$432.67 ,INR ,Starbucks,  Groceries,Credit Card,Completed,Australia
+T100036,David,"Jun 02, 2023",$695.23 USD, GBP,Amazon,  Groceries,Credit Card,Completed,India
+T100037,David,2024-07-11,$195.15,usd,zomato,Bills,Credit Card,Failed,Germany
+T100038,Bob ,2023-12-27,$173.41 USD,usd,Paytm,Shopping, Debit Card,Failed, France
+T100039,  Charlie,"Aug 21, 2024","$1,253.19 USD",usd, Netflix,Food ,UPI,Pending,Germany
+T100040,Ivan,"Jan 23, 2024",$888.75,EUR,Amazon,Insurance, Debit Card,Cancelled ,Germany
+T100041,Bob ,31/03/2023,$54.59 USD,usd,Starbucks,Travel, Wallet,Cancelled ,India
+T100042,David,2023-04-01,$570.17,EUR,Walmart,Shopping,UPI,Cancelled ,USA
+T100043,Alice,2023-12-15,$901.34, GBP, Netflix,Bills, Debit Card,Pending, UK 
+T100044,Grace,16/09/2023,$891.54,EUR,Paytm,Entertainment,Bank Transfer,Failed,Germany
+,,,,,,,,,
+T100046,Ivan,"Jul 16, 2023",$376.74 ,INR ,Amazon,Food , Debit Card,Completed,Australia
+T100047,Frank,2024-07-21,"$1,628.99 USD",usd,Apple,  Groceries, Wallet,Failed, France
+T100048,Grace,"Feb 25, 2024","$1,155.42 USD",usd,Google ,Utilities,Cash,Pending,Canada
+T100049,Grace,02/04/2023,$976.85,EUR,Paytm, Transport, Debit Card,Cancelled ,Germany
+T100050,Heidi ,10/12/2023,$942.89 ,usd,Starbucks,Food ,Bank Transfer, Success,Australia
+T100051,Grace,2023-05-14,$607.74,INR ,Flipkart,Shopping, Wallet,Failed,India
+T100052,  Charlie,2024-01-06,"$1,035.53",INR ,Google ,Utilities,Bank Transfer, Success,Australia
+T100053,Alice,"Apr 26, 2023",$453.58 USD, GBP,Flipkart, Transport,Bank Transfer,Failed,India
+T100054,Alice,"Jul 05, 2023",$966.43 , GBP,Apple,Food ,Bank Transfer,Pending,India
+T100055,Frank,28/01/2024,$607.79 USD, GBP,Paytm,Food ,Cash,Failed,India
+T100056,Eve,01/03/2023,"$1,002.61 USD",usd,zomato,Bills,Cash, Success, France
+T100057,Ivan,2024-03-07,"$1,101.87 USD", GBP,Apple,  Groceries,Cash,Cancelled ,Germany
+T100058,David,"Sep 13, 2023",$689.52,USD,uber,Bills, Wallet,Pending, UK 
+T100059,Ivan,2024-03-05,"$1,695.69 ", GBP,Apple,Bills,Credit Card,Cancelled ,Germany
+T100060,David,2024-04-06,$782.01 ,INR ,Starbucks, Transport, Debit Card,Cancelled ,Canada
+T100061,Grace,"Jun 22, 2024",$310.38 ,EUR,Apple,Entertainment,UPI,Failed, UK 
+T100062,Ivan,2024-07-23,$203.28 ,USD,Amazon,Travel,Cash,Completed,India
+T100063,Grace,29/08/2023,"$1,247.24 USD",USD,Paytm, Transport,Credit Card,Completed,USA
+T100064,Judy,"Jul 01, 2023","$1,833.44 ", GBP,Walmart,Food ,UPI, Success, UK 
+T100065,Judy,24/12/2023,"$1,325.79",USD, Netflix,Utilities,UPI, Success,India
+T100066,Bob ,16/08/2024,$390.63, GBP,Walmart,Utilities,Credit Card,Pending,Japan 
+T100067,Ivan,03/11/2023,$847.15 ,EUR,zomato,Food ,UPI, Success, UK 
+T100068,Frank,17/12/2023,$314.22 USD,INR ,zomato,Food ,UPI,Failed,India
+,,,,,,,,,
+T100070,Bob ,15/04/2024,$339.89 USD, GBP,Apple, Transport,Cash,Failed,Australia
+T100071,Bob ,2023-05-07,$235.22 USD,INR ,zomato,Travel,Cash,Cancelled ,Germany
+T100072,Ivan,"Sep 02, 2023",$87.00, GBP,Google ,Shopping,Cash,Pending, France
+T100073,Judy,"Apr 11, 2024","$1,290.37 USD", GBP, Netflix,Shopping,UPI,Cancelled ,USA
+T100074,  Charlie,2023-12-05,$39.72 USD,INR ,Starbucks,Shopping, Debit Card,Pending,Australia
+T100075,Frank,23/04/2023,"$1,386.50 ",USD,zomato,Insurance,Bank Transfer,Completed,Canada
+T100076,Ivan,2024-06-23,"$1,619.56",USD,Amazon,Food , Wallet,Pending,India
+T100077,Frank,"Jun 23, 2023","$1,388.37 USD",INR ,Apple,Utilities,UPI,Failed,USA
+T100078,  Charlie,04/02/2023,"$1,440.00 USD",usd,Apple,Bills, Wallet,Failed,India
+T100079,Frank,"Oct 03, 2023",$897.66,USD,zomato,Food ,Credit Card, Success,Australia
+T100080,Alice,"Dec 23, 2023",$720.07 ,usd,Paytm,Insurance,UPI, Success,Canada
+T100081,  Charlie,2024-02-29,$263.38, GBP,Apple,Travel,Credit Card,Completed,Australia
+T100082,Judy,2023-10-21,"$1,192.71",INR ,Google ,Utilities,Cash,Failed,Canada
+T100083,Eve,"Nov 15, 2023","$1,394.61 ",usd,Google , Transport,Bank Transfer,Pending,India
+T100084,Frank,2024-04-25,"$1,211.55 ", GBP,uber,Shopping,UPI,Pending,Australia
+T100085,Grace,20/08/2024,$174.09,INR , Netflix, Transport,Credit Card,Failed,Germany
+T100086,David,25/05/2024,"$1,238.56 ",usd,Walmart,Insurance,Bank Transfer,Completed,Australia
+T100087,David,"Aug 20, 2023","$1,500.91 USD",EUR,Amazon,Utilities, Wallet,Failed,Australia
+T100088,  Charlie,07/03/2024,"$1,620.77 ",EUR,Walmart,Insurance,Cash,Failed,Australia
+T100089,David,"Jun 05, 2024","$1,453.00",usd,Flipkart,Food ,Cash, Success, UK 
+T100090,Ivan,29/05/2024,$973.52 ,USD,Walmart, Transport,UPI,Completed,USA
+T100091,Eve,"Jun 24, 2023",$190.16 USD, GBP,Apple,Food ,UPI,Completed,Australia
+T100092,  Charlie,"Nov 14, 2023",$347.63, GBP,Apple,Entertainment,Credit Card,Cancelled ,Canada
+T100093,  Charlie,"Jul 04, 2024","$1,393.51",INR ,Flipkart, Transport,Credit Card,Pending, UK 
+T100094,Heidi ,03/01/2024,"$1,219.72 USD",INR ,uber, Transport, Wallet,Cancelled ,India
+,,,,,,,,,
+T100096,Frank,"Sep 12, 2023",$920.85 USD, GBP,Google ,Insurance,Bank Transfer,Failed, UK 
+T100097,Alice,05/02/2023,$756.72,USD,Paytm,Entertainment,Cash,Cancelled ,Australia
+T100098,Judy,07/05/2023,"$1,379.37 ", GBP,Starbucks,Utilities,UPI,Cancelled , UK 
+T100099,Frank,24/02/2023,"$1,861.26 ",USD,Paytm,Entertainment,Cash, Success,USA
+T100100,  Charlie,2023-01-11,"$1,153.95 ",EUR, Netflix,Bills,UPI,Completed,Australia
+T100101,Heidi ,15/07/2024,"$1,543.73 ", GBP,Flipkart,  Groceries, Wallet, Success,USA
+T100102,Frank,"Apr 08, 2023",$362.86 USD,usd,Starbucks,Insurance,UPI,Completed,USA
+T100103,Eve,07/12/2023,$232.87 USD,INR ,Amazon,Shopping,Bank Transfer,Completed,USA
+T100104,Alice,2023-05-02,"$1,248.75 ", GBP,Paytm,Insurance,UPI, Success,USA
+T100105,Heidi ,2024-08-05,$17.66,EUR,Apple, Transport,Cash, Success,USA
+T100106,Frank,"Feb 04, 2023",$983.46 ,USD,uber,Food , Wallet,Cancelled ,Australia
+T100107,Grace,2023-07-06,$790.10 USD,USD,zomato,Food ,UPI, Success,Germany
+T100108,Heidi ,"Jun 24, 2024","$1,830.45 ",usd,uber,Shopping,Bank Transfer,Failed,USA
+T100109,Eve,2023-09-22,"$1,471.11", GBP,Paytm,Food ,Cash,Cancelled ,India
+T100110,Frank,"Sep 26, 2023",$335.26,EUR,Walmart,Insurance, Wallet,Failed,Canada
+T100111,Judy,01/10/2023,"$1,549.53 USD", GBP,Amazon,Shopping,Credit Card,Pending,Australia
+T100112,Grace,"Mar 02, 2023","$1,694.06 ",EUR,Flipkart,Food , Wallet,Completed, UK 
+T100113,Frank,13/09/2023,"$1,891.98",USD,Paytm,Utilities, Debit Card,Completed, UK 
+T100114,Alice,2023-09-16,$280.51,USD,Amazon,Utilities, Wallet,Failed,Canada
+,,,,,,,,,
+T100116,Eve,2024-05-15,$446.09 ,USD,Apple,Travel,Credit Card,Cancelled ,USA
+T100117,Bob ,2023-07-01,"$1,540.38 ",usd,Flipkart,Food ,Cash,Failed,Germany
+T100118,  Charlie,2023-12-05,"$1,028.62",USD, Netflix,Entertainment, Debit Card,Completed,Canada
+T100119,David,08/01/2023,"$1,010.42 ",usd,Walmart,Insurance,Credit Card,Completed,Canada
+T100120,  Charlie,30/08/2023,"$1,392.16",INR , Netflix,Insurance, Debit Card,Completed, UK 
+T100121,Heidi ,11/11/2023,$961.88 USD,usd, Netflix,Utilities,Credit Card,Pending, France
+T100122,Heidi ,2024-02-05,$745.83,USD,Google , Transport,Credit Card,Failed,USA
+T100123,Eve,04/04/2023,$528.25 USD,INR , Netflix,Utilities,Credit Card,Failed,Japan 
+T100124,Alice,"Oct 18, 2023","$1,084.83 USD",usd,Walmart,Food ,Bank Transfer, Success,USA
+T100125,Alice,03/08/2024,"$1,405.43 USD",USD,zomato,Shopping, Debit Card,Cancelled ,Canada
+T100126,Grace,"Feb 02, 2024","$1,144.43", GBP,Amazon,Food ,Credit Card,Pending, UK 
+T100127,Judy,23/02/2023,"$1,299.81 USD",INR ,Walmart,Shopping, Debit Card,Failed,Australia
+,,,,,,,,,
+T100129,Grace,"Feb 20, 2024",$838.37 USD,usd,Apple, Transport, Debit Card, Success,Australia
+T100130,Heidi ,24/09/2023,"$1,464.12 ",EUR,Google ,Insurance,Bank Transfer,Completed, UK 
+T100131,Bob ,22/07/2023,"$1,531.18 USD",INR ,uber,  Groceries,UPI,Cancelled ,Australia
+T100132,Eve,"Jan 16, 2024","$1,057.01",EUR,uber,Food ,Cash,Failed,Japan 
+T100133,  Charlie,20/11/2023,$226.24 ,usd,Starbucks,Utilities, Debit Card,Pending,Japan 
+T100134,Heidi ,2023-09-02,"$1,955.54 USD",usd,Walmart,Travel,UPI,Cancelled ,Australia
+T100135,Alice,2023-02-19,$976.95 USD,usd,Google ,Travel,Cash,Completed, France
+T100136,Ivan,"Aug 16, 2023","$1,782.04 ", GBP,Paytm, Transport,UPI, Success,USA
+T100137,Frank,25/03/2024,$728.90 USD, GBP,Starbucks,Insurance,Credit Card,Completed,Australia
+T100138,Judy,2023-05-12,"$1,902.31",USD,Flipkart,Utilities,UPI,Failed,Canada
+T100139,Heidi ,2024-07-18,"$1,256.75", GBP,Starbucks,Insurance,UPI,Completed, UK 
+T100140,Alice,09/06/2024,$39.71 ,usd, Netflix, Transport,Cash,Pending,USA
+T100141,Grace,04/07/2023,"$1,226.95 USD", GBP,Starbucks,Shopping,Bank Transfer,Cancelled ,Japan 
+T100142,Frank,27/03/2024,$949.62, GBP,uber,Shopping, Debit Card,Pending, France
+T100143,Judy,"Jan 27, 2024","$1,820.81 USD", GBP,Amazon,Bills,Cash, Success,India
+T100144,Judy,2023-05-28,"$1,796.75",USD,Apple, Transport,Cash,Failed,India
+T100145,  Charlie,"Jun 08, 2024","$1,503.61",usd,zomato,Bills, Wallet,Completed, France
+T100146,Ivan,"Sep 14, 2023","$1,558.99 ",usd,Amazon,Travel,Bank Transfer,Failed,Japan 
+T100147,Bob ,2024-06-29,"$1,971.25 USD",EUR,Starbucks,Bills, Debit Card,Failed,Germany
+T100148,Ivan,20/03/2024,$197.27, GBP,Apple,Travel,Credit Card,Cancelled ,Australia
+T100149,Heidi ,"Jun 01, 2023","$1,318.18 USD", GBP,uber,Bills, Wallet,Completed,India
+T100150,Eve,12/04/2024,"$1,376.32 USD", GBP,Walmart,Entertainment,Cash,Pending,India
+T100151,Frank,01/10/2023,"$1,200.15",USD,Walmart,  Groceries,Bank Transfer,Pending,USA
+T100152,Frank,30/07/2024,$717.48,usd,Flipkart,Bills, Debit Card,Failed,Germany
+T100153,Grace,2024-08-20,$122.51 ,INR ,uber,  Groceries,Cash,Failed,Canada
+T100154,Alice,07/06/2023,$217.53 ,usd,Paytm,Food ,Bank Transfer,Failed, UK 
+T100155,  Charlie,2023-01-14,"$1,424.85 ",usd,Starbucks,Food ,Bank Transfer,Pending,Canada
+T100156,Judy,2024-01-05,"$1,265.54",usd,Walmart,Bills,Credit Card, Success,Germany
+T100157,Judy,"Jan 26, 2023","$1,308.85 ",USD,Google ,Entertainment,Cash,Failed,Germany
+,,,,,,,,,
+T100159,Frank,"Sep 04, 2023",$29.29 ,usd,Starbucks,Shopping,Bank Transfer,Cancelled ,Australia
+T100160,Heidi ,19/12/2023,$730.00, GBP,Walmart,Food ,Cash,Failed,USA
+T100161,David,2024-07-16,"$1,360.25 ",INR ,Amazon,Shopping,UPI,Failed, France
+T100162,  Charlie,"Jul 13, 2023",$675.76 USD,EUR,Apple,Shopping,UPI,Pending,Germany
+T100163,Grace,11/03/2024,$390.28 USD,EUR,Walmart,Entertainment,Cash,Pending,Canada
+T100164,Heidi ,"Feb 11, 2024","$1,936.96 ",INR ,Walmart,Bills, Debit Card,Cancelled ,Australia
+T100165,  Charlie,"Oct 30, 2023",$262.03 USD,INR ,Google ,Entertainment, Debit Card,Completed,Germany
+T100166,Eve,14/04/2023,"$1,696.68 ",INR ,Google ,Food ,Credit Card,Cancelled ,USA
+T100167,Bob ,"Aug 04, 2023","$1,591.36 USD",EUR,uber,  Groceries,UPI,Failed,USA
+T100168,Eve,2023-09-29,"$1,285.62 USD", GBP,Amazon,Utilities,UPI, Success, UK 
+T100169,Judy,2023-01-07,"$1,295.39 ",EUR,Paytm,  Groceries, Wallet,Pending,Australia
+,,,,,,,,,
+T100171,Frank,28/08/2023,"$1,941.71 USD",usd,Paytm,Travel, Debit Card,Failed,India
+T100172,Alice,2024-07-30,$342.09,INR , Netflix,Insurance, Debit Card,Cancelled ,Germany
+T100173,Ivan,2024-04-02,$326.95 USD, GBP,Google ,Entertainment, Wallet,Pending,Canada
+,,,,,,,,,
+T100175,Judy,23/08/2024,$389.55,USD, Netflix,Entertainment, Debit Card,Failed,India
+T100176,Grace,12/08/2023,$11.34 USD,USD,uber,Shopping,Cash,Failed,USA
+T100177,Ivan,2024-01-14,"$1,875.97 ",USD,Walmart, Transport,Cash,Completed,Canada
+T100178,Ivan,"Jun 14, 2023","$1,704.54",USD,Apple,  Groceries,UPI,Cancelled ,Canada
+T100179,Judy,08/01/2023,$134.55,INR ,Apple,Insurance,Bank Transfer,Failed,Australia
+T100180,Judy,"Aug 27, 2023",$457.99,USD,Paytm,Entertainment, Wallet,Failed,Germany
+T100181,Ivan,2024-08-09,"$1,298.29 USD",usd,Flipkart,Shopping,Bank Transfer, Success,Canada
+T100182,David,"Jan 25, 2023","$1,281.96 USD",USD,uber,Travel, Wallet, Success, France
+T100183,Eve,17/04/2024,"$1,938.79 USD",USD,uber,Entertainment, Wallet,Failed,Germany
+T100184,Alice,"Aug 05, 2023",$991.31,USD, Netflix,  Groceries, Debit Card,Pending,Canada
+T100185,Heidi ,"Sep 02, 2023","$1,675.84 USD", GBP,Walmart,Entertainment,Bank Transfer,Failed,USA
+T100186,Grace,2023-01-29,"$1,487.99 USD",INR ,Apple,  Groceries, Debit Card,Cancelled ,Canada
+T100187,Judy,2024-04-13,"$1,427.79 ",INR ,Apple,Bills, Debit Card, Success,USA
+T100188,Heidi ,09/01/2024,"$1,606.48 USD",usd, Netflix,Insurance,Credit Card,Failed,India
+T100189,Heidi ,2023-09-07,"$1,852.75 ",INR ,Apple,Entertainment,UPI,Pending,Australia
+T100190,Bob ,2023-07-15,$934.34, GBP,Walmart,Entertainment,UPI,Cancelled ,Japan 
+T100191,Heidi ,2024-03-27,$778.13,usd,Flipkart,Food ,Cash,Cancelled ,Canada
+T100192,Grace,19/05/2024,$675.19 USD,EUR,Starbucks,Entertainment, Debit Card,Completed,India
+T100193,Eve,"Jun 02, 2023","$1,427.17 ", GBP,Apple,Food ,Bank Transfer, Success, UK 
+T100194,Alice,06/09/2023,$846.07 ,INR ,Walmart,Utilities,Credit Card,Pending, France
+T100195,Judy,2024-07-20,"$1,964.48 USD",USD, Netflix,Insurance, Wallet,Pending,Canada
+T100196,Judy,2024-01-29,"$1,557.61",usd,Amazon,Shopping, Wallet,Completed,Canada
+T100197,Frank,02/07/2023,"$1,087.97 USD",EUR,Walmart, Transport,Bank Transfer,Failed, UK 
+T100198,Ivan,"Aug 23, 2024","$1,577.43 ",USD,Starbucks,  Groceries,Credit Card,Cancelled ,Canada
+T100199,Heidi ,03/08/2023,"$1,235.65 ",usd,Google ,Travel,Bank Transfer, Success, France
+T100058,David,"Sep 13, 2023",$689.52,USD,uber,Bills, Wallet,Pending, UK 
+T100040,Ivan,"Jan 23, 2024",$888.75,EUR,Amazon,Insurance, Debit Card,Cancelled ,Germany
+T100034,Frank,"Jul 12, 2023",$78.56 USD,EUR, Netflix, Transport, Debit Card,Failed,Australia
+T100102,Frank,"Apr 08, 2023",$362.86 USD,usd,Starbucks,Insurance,UPI,Completed,USA
+T100184,Alice,"Aug 05, 2023",$991.31,USD, Netflix,  Groceries, Debit Card,Pending,Canada
